@@ -43,6 +43,29 @@ software without switching layouts.
 
 ![EurKEY additions](images/eurkey.png)
 
+Fonts used:
+
+ * Sans (as installed in Debian GNU/Linux)
+
+### Fira Sans alpha keys
+
+An alpha layout using Mozilla's Fira Sans font.
+
+![Fira Sans](images/alpha_fira_sans.png)
+
+Fonts used:
+  * Fira Sans semibold
+  * Fira Sans regular
+
+### Source Sans Pro alpha keys
+
+An alpha layout using Adobe's Source Sans Pro font.
+
+![Source Pro Sans](images/alpha_source_pro_sans.png)
+
+Fonts used:
+  * Source Sans Pro heavy
+  * Source Sans Pro regular
 
 ### Debian OS keys
 
