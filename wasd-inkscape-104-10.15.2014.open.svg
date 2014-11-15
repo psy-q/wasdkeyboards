@@ -81,16 +81,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="576.30124"
-     inkscape:cy="335.29286"
+     inkscape:cx="418.56129"
+     inkscape:cy="212.80166"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="in"
      inkscape:window-width="1726"
      inkscape:window-height="1122"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="230"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
@@ -3484,7 +3484,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Key Grids (Not Printed)"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        style="fill-rule:evenodd"
@@ -19823,9 +19823,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer14"
-     inkscape:label="Alpha - EurKey extras"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     inkscape:label="Alpha - EurKEY extras"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -23228,8 +23227,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="OS Keys - Debian"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;overflow:visible"
        id="g7509"
